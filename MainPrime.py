@@ -1,5 +1,8 @@
+import Main
+
+users = "root"
 def main():
-    users = "root"
+    print(Main)
     if users == "root":
         print(f"Hello {users}")
 
